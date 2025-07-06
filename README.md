@@ -12,7 +12,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File Name              | Description                                                  |
 |------------------------|--------------------------------------------------------------|
@@ -28,7 +28,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
-## 📊 Dataset Features
+## Dataset Features
 
 - **Location**: Latitude and longitude of each lot (used for proximity/competition logic)
 - **Capacity**: Total vehicle holding capacity
@@ -41,7 +41,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
-## 📈 Models
+## Models
 
 | Model | Description               | Key Features                                                                 |
 |-------|---------------------------|------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - **Python** – Core programming language
 - **Pandas**, **NumPy** – Data processing and manipulation
@@ -60,7 +60,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Open and run the Jupyter notebooks (`M1.ipynb`, `M2.ipynb`, `M3.ipynb`) to simulate each pricing strategy.
 2. Use the corresponding stream files (`parking_stream_m1.csv`, etc.) to feed simulated real-time data.
