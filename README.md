@@ -27,10 +27,6 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 | `README.md`            | Project overview and usage instructions.                    |
 
 ---
-##  Architecture
-![Uploading 462765303-c19fa8db-1fde-4ad1-ac07-3a034c686c70.png…]()
-
----
 
 ## Dataset Features
 
