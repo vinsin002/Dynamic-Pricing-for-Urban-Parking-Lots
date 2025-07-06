@@ -20,6 +20,7 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 | `M2.ipynb`             | Demand-based pricing with multi-factor demand calculation.  |
 | `M3.ipynb`             | Competition-aware pricing model with geographic adjustments.|
 | `dataset.csv`          | Historical parking lot dataset.                             |
+| `architecture.png`     | Diagram of Architecture Used.                             |
 | `parking_stream_m1.csv`| Simulated real-time data for Model 1.                       |
 | `parking_stream_m2.csv`| Simulated real-time data for Model 2.                       |
 | `parking_stream_m3.csv`| Simulated real-time data for Model 3.                       |
