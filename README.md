@@ -66,12 +66,3 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 2. Use the corresponding stream files (`parking_stream_m1.csv`, etc.) to feed simulated real-time data.
 3. Refer to `ppt.pdf` for full methodology, model equations, assumptions, and visual results.
 
----
-
-## 📬 Contact
-
-For questions or contributions, refer to the presentation (`ppt.pdf`) or reach out to the project team.
-
-> For detailed formulas, assumptions, and visuals, see `ppt.pdf`.
-
----
