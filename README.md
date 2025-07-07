@@ -12,6 +12,10 @@ A **three-stage modeling approach** is applied to determine optimal dynamic pric
 
 ---
 
+## Architecture
+
+![Architecture Diagram](architecture.png)
+---
 ##  Project Structure
 
 | File Name              | Description                                                  |
